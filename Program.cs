@@ -9,10 +9,6 @@ namespace SLVP_Aflevering1
     internal static class Program
     {
 
-        // KAN IKKE TILGÅS I FORMS ALLIGEVEL??
-        // Skal erklæres statisk. Da den er en del af program-klassen må den gerne tilgås af alle versioner af denne, da der kun vil være en.
-        // public static string[] nameArray = new string[10];
-
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
